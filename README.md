@@ -1,7 +1,20 @@
-# Java-Week11-Assignment--PromineoTech-Database--MySQL-Final-Project 
+# Java - MySQL-Do It Yourself Project (DIY)
 
+- 🤔This is menu-driven application used to create DIY project. It focuses on MVC design pattern approach to create a CRUD application.
+    The project demonstrates we perform CRUD operation on a MySQL Database using JAVA - JDBC, and also how to read SQL queries in external JAVA class.
+    The SQL queries are in  an external file to make my code looks following DRY approach, and call them in my Java code when need them.
 
-Using MVC design pattern approach to create a CRUD application that demonstrates we perform CRUD operation on a MySQL Database using JAVA - JDBC, and also how to read SQL queries in external JAVA class. I separate SQL queries from my java to make my code looks following DRY approach, and call them in my Java code when need them.
+Tech Stack
+- Java
+- MySQL
+- 
+Features
+Allows the user to select an option from a menu. They can choose to create, list, select, update, or delete a project.
+Each project in the database including  has steps, materials, and categories, and could be display.
+
+Clone:
+
+```https://github.com/paulBit3/Week-11-Java-Week11-Assignment--PromineoTech-Database--MySQL-Final-Project.git```
 
 ![Screenshot 2024-04-14 054034](https://github.com/paulBit3/Java-Week10-Assignment--PromineoTech-DB-Development--MySQL-JDBC/assets/43505777/9fdbf446-5454-4d4e-8279-8cf0baa2eefa)
 
