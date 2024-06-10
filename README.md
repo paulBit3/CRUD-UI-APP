@@ -1,8 +1,9 @@
 # Java - MySQL-Do It Yourself Project (DIY)
 
-🤔About the Project
+🤔About the Project:
+------
     This is menu-driven application used to create DIY project. It focuses on MVC design pattern approach to create a CRUD application.
-    The project demonstrates we perform CRUD operation on a MySQL Database using JAVA - JDBC, and also how to read SQL queries in external JAVA class.
+    The project demonstrates how to perform CRUD operation on a MySQL Database using JAVA - JDBC, and also how to read SQL queries in external JAVA class.
     The SQL queries are in  an external file to make my code looks following DRY approach, and call them in my Java code when need them.
 
 Tech Stack
