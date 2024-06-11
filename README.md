@@ -13,7 +13,7 @@ Features:
 The app alows the user to select an option from a menu. They can choose to create, list, select, update, or delete a project.
 Each project in the database including  has steps, materials, and categories, and could be display.
 
-Clone:
+- Clone:
 
 ```git clone https://github.com/paulBit3/Week-11-Java-Week11-Assignment--PromineoTech-Database--MySQL-Final-Project.git```
 
