@@ -7,8 +7,8 @@
     creating, listing, selecting, updating and deleting a project. 
     
     Back-end techs: Java, JDBC, MySQL
-    -----
     
+------    
 Features:
 ----
 The app alows the user to select an option from a menu. They can choose to create, list, select, update, or delete a project.
