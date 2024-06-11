@@ -6,11 +6,12 @@
     A hands-on, real world Database design and development project. 
     The menu-driven app allows users to select option from a menu to perform CRUD operations such as 
     creating, listing, selecting, updating and deleting a project. 
-    ---
+    
     Back-end tools: Java, JDBC, MySQL
 -----
-Features
-Allows the user to select an option from a menu. They can choose to create, list, select, update, or delete a project.
+Features:
+----
+The app alows the user to select an option from a menu. They can choose to create, list, select, update, or delete a project.
 Each project in the database including  has steps, materials, and categories, and could be display.
 
 Clone:
