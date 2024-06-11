@@ -11,7 +11,8 @@
 ------    
 Features:
 ----
-The app alows the user to select an option from a menu. They can choose to create, list, select, update, or delete a project.
+The app alows the user to select an option from a menu. 
+They can choose to create, list, select, update, or delete a project.
 Each project in the database including  has steps, materials, and categories, and could be display.
 
 - git clone: https://github.com/paulBit3/Do-It-Yourself.git
