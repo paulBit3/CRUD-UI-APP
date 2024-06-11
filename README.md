@@ -1,4 +1,3 @@
-# Java - MySQL-Do It Yourself Project (DIY)
 
 🤔About the Project:
 ------
