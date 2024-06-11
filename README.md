@@ -15,6 +15,9 @@ The app alows the user to select an option from a menu. They can choose to creat
 Each project in the database including  has steps, materials, and categories, and could be display.
 
 - git clone: https://github.com/paulBit3/Do-It-Yourself.git
+------
+
+ER Diagram
 
 ![Screenshot 2024-04-14 054034](https://github.com/paulBit3/Java-Week10-Assignment--PromineoTech-DB-Development--MySQL-JDBC/assets/43505777/9fdbf446-5454-4d4e-8279-8cf0baa2eefa)
 
@@ -23,6 +26,8 @@ Each project in the database including  has steps, materials, and categories, an
 ![Screenshot 2024-05-06 181633](https://github.com/paulBit3/Java-Week10-Assignment--PromineoTech-DB-Development--MySQL-JDBC/assets/43505777/d8d30da0-fda6-41c4-a618-0b1c8ef29bd3)
 
 
+------
+How to:
 
 Once download or cloned the repo, look at the src folder. The database and sample data are in the main/resources folder
 Here is a sample.
