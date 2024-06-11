@@ -5,8 +5,9 @@
     A hands-on, real world Database design and development project. 
     The menu-driven app allows users to select option from a menu to perform CRUD operations such as 
     creating, listing, selecting, updating and deleting a project. 
-    
-    Back-end techs stack: Java, JDBC, MySQL
+----
+
+- Back-end techs stack: Java, JDBC, MySQL
     
 ------    
 Features:
