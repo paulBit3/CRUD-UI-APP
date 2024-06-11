@@ -15,7 +15,7 @@ Each project in the database including  has steps, materials, and categories, an
 
 - Clone:
 
-```git clone https://github.com/paulBit3/Week-11-Java-Week11-Assignment--PromineoTech-Database--MySQL-Final-Project.git```
+```git clone https://github.com/paulBit3/Do-It-Yourself.git```
 
 ![Screenshot 2024-04-14 054034](https://github.com/paulBit3/Java-Week10-Assignment--PromineoTech-DB-Development--MySQL-JDBC/assets/43505777/9fdbf446-5454-4d4e-8279-8cf0baa2eefa)
 
