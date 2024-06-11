@@ -3,15 +3,10 @@
 🤔About the Project:
 ------
     
-    A hands-on, real world database design and development project. The menu-driven app allows users to select option from a menu to perform CRUD operations such as 
-    creating, listing, selecting, updating and deleting a project. I built the App using core Java, JDBC and MySQL, focuses on MVC design pattern. 
-    I followed DRY approach to create an external SQL class to handle SQL statements, and implemented DAO methods to invoke and execute SQL queries through an external
-    class. This makes modification easier, by eliminating the need to search for SQL queries within application logic.
+    A hands-on, real world Database design and development project. The menu-driven app allows users to select option from a menu to perform CRUD operations such as 
+    creating, listing, selecting, updating and deleting a project. 
+    Back-end tools: Java, JDBC, MySQL
 
-Tech Stack
-- Java
-- MySQL
-- 
 Features
 Allows the user to select an option from a menu. They can choose to create, list, select, update, or delete a project.
 Each project in the database including  has steps, materials, and categories, and could be display.
