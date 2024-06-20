@@ -2,9 +2,9 @@
 🤔About the Project:
 ------
     
-    A hands-on, real world Database design and development project. 
+    A CRUD UI project is a real world Database design and development. 
     The menu-driven app allows users to select option from a menu to perform CRUD operations such as 
-    creating, listing, selecting, updating and deleting a project. 
+    creating, listing, selecting, updating and deleting data in a MySQL Database. 
 ----
 
 - Back-end techs stack: Java, JDBC, MySQL
@@ -12,11 +12,11 @@
 ------    
 Features:
 ----
-The app alows the user to select an option from a menu. 
+The app allows the user to select an option from a menu. 
 They can choose to create, list, select, update, or delete a project.
-Each project in the database including  has steps, materials, and categories, and could be display.
+Each data project in the MySQL Database has steps, materials, and categories, and could be display.
 
-- ```git clone: https://github.com/paulBit3/Do-It-Yourself.git```
+- ```git clone: https://github.com/paulBit3/CRUD-UI-APP.git```
 ------
 
 ER Diagram
